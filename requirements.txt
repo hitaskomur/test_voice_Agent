@@ -1,0 +1,11 @@
+fastapi==0.161.1
+uvicorn==0.54.0
+httpx==0.28.1
+redis==8.1.0
+python-dotenv==1.2.4
+pydantic==2.14.1
+langchain-core==1.7.0
+langchain-openai==1.7.2
+langgraph==1.2.16
+langsmith==0.14.12
+tzdata==2026.5
